@@ -189,6 +189,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand img { 
     margin-top: 10px;
+    height: 40px;
 }
 
 .navbar-default .navbar-collapse {

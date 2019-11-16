@@ -249,6 +249,12 @@ fieldset[disabled] .btn-xl.active {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
+        padding: 0;
+
+    }
+
+    .navbar-default .navbar-brand img {
+        height: 60px;
     }
 
     .navbar-default .navbar-nav>.active>a {

@@ -668,6 +668,24 @@ aside.clients img {
     margin: 50px auto;
 }
 
+#start-project p {
+    
+}
+
+#start-project .section-heading {
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: none;
+}
+
+@media(min-width:768px) { {
+    #start-project .section-heading {
+        font-size: 28px;
+    }
+}
+
+
+
 section#contact {
     background-color: #222;
     background-image: url('{{ site.baseurl }}/img/map-image.png');

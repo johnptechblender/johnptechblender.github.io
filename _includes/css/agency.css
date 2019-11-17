@@ -686,6 +686,7 @@ aside.clients img {
 #start-project .label {
     font-size: 22px;
     margin-top: 10px;
+    display: inline-block;
 }
 
 
@@ -701,6 +702,12 @@ aside.clients img {
         top: 50%;
         margin-top: -16px;
     }
+}
+
+section#contact h3.section-subheading {
+    text-align: center;
+    color: #fff;
+    margin: 45px 0;
 }
 
 
@@ -732,7 +739,7 @@ section#contact .form-group input.form-control {
 }
 
 section#contact .form-group textarea.form-control {
-    height: 236px;
+    height: 241px;
 }
 
 section#contact .form-control:focus {

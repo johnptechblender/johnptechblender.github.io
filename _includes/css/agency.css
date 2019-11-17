@@ -669,20 +669,38 @@ aside.clients img {
 }
 
 #start-project  {
-    padding: 0 15px;
+    padding: 15px;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    color: #fff;
+    position: relative;
 }
 
 #start-project .section-heading {
     font-size: 18px;
     font-weight: 500;
     text-transform: none;
+    margin-bottom: 15px;
 }
+
+#start-project .label {
+    font-size: 22px;
+}
+
 
 @media(min-width:768px) { {
     #start-project .section-heading {
         font-size: 28px;
     }
+
+    #start-project .label {
+        font-size: 24px;
+        position: absolute;
+        right: 0;
+        top: 50%;
+    }
 }
+
 
 
 

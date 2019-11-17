@@ -669,7 +669,7 @@ aside.clients img {
 }
 
 #start-project  {
-    padding: 15px;
+    padding: 30px 15px;
     background: rgba(0, 0, 0, 0.2);
     border-radius: 4px;
     color: #fff;
@@ -685,10 +685,11 @@ aside.clients img {
 
 #start-project .label {
     font-size: 22px;
+    margin-top: 10px;
 }
 
 
-@media(min-width:768px) { 
+@media(min-width:1024px) { 
     #start-project h2 {
         font-size: 28px;
     }

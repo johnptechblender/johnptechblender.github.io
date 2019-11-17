@@ -688,7 +688,7 @@ aside.clients img {
 }
 
 
-@media(min-width:768px) { {
+@media(min-width:768px) { 
     #start-project .section-heading {
         font-size: 28px;
     }

@@ -668,8 +668,8 @@ aside.clients img {
     margin: 50px auto;
 }
 
-#start-project p {
-    
+#start-project  {
+    padding: 0 15px;
 }
 
 #start-project .section-heading {
@@ -695,6 +695,7 @@ section#contact {
 
 section#contact .section-heading {
     color: #fff;
+    margin-bottom: 40px;
 }
 
 section#contact .form-group {
